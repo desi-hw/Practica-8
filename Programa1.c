@@ -1,3 +1,5 @@
+/*Huitrón Was-Szabo Elizabeth Desireé
+Práctica 8 ejercicio 1*/
 #include <stdio.h>
 int main()
 {
