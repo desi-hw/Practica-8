@@ -7,9 +7,10 @@ int main()
   El siguiente es un ciclo infinito porque la condición siempre es verdadera.
   Así mismo, debido a que el ciclo consta de una sola línea, las llaves { } son
   opcionales.*/
-  while (100)
+  while (con<=10)
   {
     printf("Ciclo infinito.\nPara terminar el ciclo presione ctrl + c.\n");
+    cont=cont+1;  
   }
   return 0;
 }
